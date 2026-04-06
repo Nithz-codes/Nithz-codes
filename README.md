@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Student / Developer<br>📚 I'm currently Learning JavaScript & Python<br>🎯 Goals: <br>⚡ Fun fact: I love solving logic problems</p>
+<p align="left">🎓 Student / Developer<br>📚 I'm currently Learning React & Python<br>🎯 Goals: <br>⚡ Fun fact: I love solving logic problems</p>
 
 ###
 
