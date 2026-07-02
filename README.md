@@ -2,10 +2,11 @@
 
 ###
 
+
 <p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
-
+![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)
 <h2 align="left">About me</h2>
 
 ###
@@ -13,6 +14,7 @@
 <p align="left">🎓 Student / Developer<br>📚 I'm currently Learning React & Python<br>🎯 Goals: <br>⚡ Fun fact: I love solving logic problems</p>
 
 ###
+![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)
 
 <h2 align="left">I code with</h2>
 
